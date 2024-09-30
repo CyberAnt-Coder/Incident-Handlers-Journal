@@ -1,7 +1,7 @@
-<h1>Incident-Handler's-Journal</h1>
+# Incident-Handler's-Journal
 
-<h2>Description</h2>
-For this activity, we were given a blank Incident Handler's Journal and were tasked with filling it in as we progressed through the course. I used my journal to record a cybersecurity incidnet, a phishing alert, a packet capture, and an investigation of a suspicious file hash.
+## Description
+For this activity, I used a blank Incident Handler's Journal and filled it in I progressed through the Google Cybersecurity Professional course. I used my journal to record a cybersecurity incidnet, a phishing alert, a packet capture, and an investigation of a suspicious file hash.
 <br />
 
 # Cybersecurity Journal Entries
